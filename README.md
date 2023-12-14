@@ -1,1 +1,1 @@
-# regression-exercises1
+This repository will be used for all regression exercises.
